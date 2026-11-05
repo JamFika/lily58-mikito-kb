@@ -9,9 +9,9 @@
 # shield: [ "corne_left", "corne_right" ]
 include:
   - board: mikoto@7.2
-    shield: jam_left nice_view_adapter nice_view
+    shield: jam_left
   - board: mikoto@7.2
-    shield: jam_right nice_view_adapter nice_view
+    shield: jam_right
 #   - board: bdn9_rev2
 #   - board: nice_nano
 #     shield: reviung41
