@@ -1,3 +1,5 @@
+name: zmk-keyboard-lily58-jam
+
 build:
   settings:
     board_root: .
